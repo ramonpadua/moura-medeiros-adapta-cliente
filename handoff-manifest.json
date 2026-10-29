@@ -6,11 +6,11 @@
     "adapta": "1.0.0",
     "adaptaCliente": "1.0.0"
   },
-  "generatedAt": "2026-09-14T18:49:00Z",
+  "generatedAt": "2026-10-29T15:18:00Z",
   "files": [
     {
       "path": ".adapta-cliente/estado-atual.md",
-      "sha256": "6e683ec523306a6df8dddd889e2a520f94db8722040e2bf1c9e678f85d0f74c6",
+      "sha256": "2e8d1e817c3645d1c2bdd9cf340a94503516b510b9e3b2b3a9a2f1b71c7eda36",
       "classification": "template-publico"
     },
     {
@@ -84,28 +84,73 @@
       "classification": "template-publico"
     },
     {
+      "path": "04_fase-atual/b1-cont-01/01-inventario-auditoria.md",
+      "sha256": "4f930aa214fd0f55fb2217fc48d5da4375099d52e59391336038258cad23998a",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/b1-cont-01/02-copy-home-draft.md",
+      "sha256": "530c458969899aeea51dbbc6ae8f1626e7cb2214914a78fcb4f564d215808514",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/b1-cont-01/03-manifesto-primeiro-cluster-draft.json",
+      "sha256": "dcc01eb7a1b836a60b6d453794be03d024f862f55ff2a65f5e37e8516d1603ae",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/b1-cont-01/04-fontes-autores-revisores.md",
+      "sha256": "3ea190a24d6eb1719e36e37d71a97b926469df42dc34feab59ff9dfeaf3c5e54",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/b1-cont-01/05-checklist-publicidade-pii.md",
+      "sha256": "77f9a4f883762f2fc3a46a0ed60cc7f80906fc57a51f6fd5ef628ea6dca89cfb",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/b1-cont-01/06-recibo-metodologia-fase-2.md",
+      "sha256": "6765b8899744ca693de53e01cbc3cea4599d15d911b84ebc1f68bb63436e28c6",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/b1-cont-01/07-verificacao-f1-t04.md",
+      "sha256": "8bb1873cca11da2d9e2558beb0fb355515f60e28050e248f5d5144c2d0121756",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/b1-cont-01/README.md",
+      "sha256": "b4b8a193802e75a4ac972a08ec3b51aa076dd634c0c8a6006ced8eb53610b360",
+      "classification": "template-publico"
+    },
+    {
       "path": "04_fase-atual/fase.md",
-      "sha256": "248f8775bf5719a7df17d8473690c060e7d0b53a069e8192815957bc292bc2b0",
+      "sha256": "b6ee49f04461a4d0b9e2a0f2c6ff7526e23c0bba268c62c8f1f92c652c6fa99a",
       "classification": "fase-atual"
     },
     {
       "path": "04_fase-atual/specs/spec-1-001.md",
-      "sha256": "5493bddeb9a6b8dfa11b724c21e59c32944dadf6da83e212011a79ce6482fc7d",
+      "sha256": "265b033308f9c3435a07797e679ec15ee3fbb2423afae989c33a0dfceab4c98b",
       "classification": "spec-fase-atual"
     },
     {
       "path": "04_fase-atual/specs/spec-1-002.md",
-      "sha256": "ddda3aaffcd0c6ec1d21f86a04d2cc152512c5293a9d164ab738279c88d69f2b",
+      "sha256": "3565b66c7831ae45f25ebfc2ca5e14a5d0181778e8ebf5a640523da281e5c6e5",
       "classification": "spec-fase-atual"
     },
     {
       "path": "04_fase-atual/specs/spec-1-003.md",
-      "sha256": "61b72ff68566831ae2f7cc922a67633439d3536ce83ba275eed68fa4e678e7c1",
+      "sha256": "40cfba4ece13355ae6b90a5c82abd2ea36bbac7090f1a9040021767bf9204ef5",
       "classification": "spec-fase-atual"
     },
     {
       "path": "04_fase-atual/specs/spec-1-004.md",
-      "sha256": "1869ac850f12aa7fd77dd395fa14dea0c703b0f6aeb4c8b2d7ee1ea47ea3842a",
+      "sha256": "1de13eab726f59380cd643e9355e3ddb761df393bd526f02233abb36ab23884d",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-005.md",
+      "sha256": "eccadf49163b490ce1d2569de031ed036ba0f75b071f64d6ef7634966ab17afd",
       "classification": "spec-fase-atual"
     },
     {
@@ -125,7 +170,7 @@
     },
     {
       "path": "06_notas/aprendizado-continuo/controle.md",
-      "sha256": "2cad1fd8caaac8dafcbf3525068f02f6d50b99631b14cf96042190735796bd18",
+      "sha256": "1941e9b637a4406fc00f096e8dd2984f587ee68a132af5c615d2d3e5c259fb0d",
       "classification": "template-publico"
     },
     {
@@ -135,28 +180,29 @@
     },
     {
       "path": "AGENTS.md",
-      "sha256": "ced7c8341be8567faffb1a7d532b5e750bb88045a58fef4ce03584b8353a7840",
+      "sha256": "7ad7984690616bbd4e67f62875eb965aaaa75728d1c17eeb7bc606be9159cb92",
       "classification": "template-publico"
     },
     {
       "path": "CLAUDE.md",
-      "sha256": "9f2091f4f7741e556bf551dd178c62c4639f78a3ce29507b36b4d6ab9428abd6",
+      "sha256": "3e447ca2b5002dbe21c1beca433da59f8816fc1ea62bad20e344fa942a5b003a",
       "classification": "template-publico"
     },
     {
       "path": "README.md",
-      "sha256": "714d4bd37e4b48564fa764175964824eeb256ceefd490a650c0581176ccecf57",
+      "sha256": "17db6530b2843ad89f8c5ce4c8d1ff92fd4ebe795e4f709ca743abf23ac4ef81",
       "classification": "template-publico"
     },
     {
       "path": "STATUS.md",
-      "sha256": "ee4b03ebca8e8adaf283583467b99f9c089fa12cff8d1920f60b23da92503831",
+      "sha256": "2e8d1e817c3645d1c2bdd9cf340a94503516b510b9e3b2b3a9a2f1b71c7eda36",
       "classification": "template-publico"
     },
     {
       "path": "changelog.md",
-      "sha256": "c4a2307a1f704a740e1ac4168d2039a692be0df8bc5f572054bceb199568ab9f",
+      "sha256": "ddf9072a0e01bd0a4889e64435a26f1cd4a785e50d0eed3a6d1b3993700de56f",
       "classification": "template-publico"
     }
-  ]
+  ],
+  "amendment": "E-F1-002"
 }
