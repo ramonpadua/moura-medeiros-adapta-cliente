@@ -1,11 +1,11 @@
 # B1-CONT-01 — Copy de home para revisão
 
 - **Versão:** `0.2.0-draft`
-- **Estado:** `DRAFT — todos os blocos da copy de home aprovados como rascunho por Celso em 2026-10-07; não aprovado para publicação`
+- **Estado:** `DRAFT — todos os blocos da copy de home aprovados como rascunho por Celso em 2026-11-02; não aprovado para publicação`
 - **Uso permitido:** revisão editorial e de publicidade; não publicar como copy selada.
 - **Autor da proposta:** Ethos, a partir das decisões fechadas da Fase 1.
 - **Aprovação necessária:** Celso + revisão de publicidade da advocacia.
-- **Aceite de Celso (2026-10-07):** aprovados como rascunho todos os sete blocos desta proposta — eyebrow, título, subtítulo, aviso de conteúdo informativo, CTA primário, CTA secundário e bloco sobre o estado do portal. Este aceite não altera o manifesto, não autoriza importação ou publicação e não conclui a F1-T04.
+- **Aceite de Celso (2026-11-02):** aprovados como rascunho todos os sete blocos desta proposta — eyebrow, título, subtítulo, aviso de conteúdo informativo, CTA primário, CTA secundário e bloco sobre o estado do portal. Este aceite não altera o manifesto, não autoriza importação ou publicação e não conclui a F1-T04.
 
 ## Direção consolidada
 
@@ -51,13 +51,13 @@ O Agrojur está em construção controlada. Pensado para o agro em qualquer luga
 
 - **2026-09-26 — título, subtítulo (versão original, com Mato Grosso) e aviso de conteúdo informativo:** aprovados como rascunho por Celso. O subtítulo original foi posteriormente substituído.
 - **2026-10-01 — três frentes condicionais:** Celso aprovou a direção dos rascunhos — pedido administrativo (MCR 2-6-4), linha nova de composição (MP 1.376/2026, quando houver enquadramento) e via judicial (CPC art. 300, conforme resposta ou silêncio) — a serem mantidas sempre disponíveis e escolhidas conforme o enquadramento do cliente em cada caso. Vale como direção; não aprova este pacote nem autoriza publicação.
-- **2026-10-07 — direção de atuação:** Celso definiu atuação em qualquer lugar, retirada de Mato Grosso do texto e anúncio mais objetivo.
-- **2026-10-07 — eyebrow:** aprovada a sugestão F, "Agrojur · direito do agro".
-- **2026-10-07 — CTA primário:** aprovada a palavra "Soluções", trazida por Celso.
-- **2026-10-07 — CTA secundário:** aprovado "Conhecer o projeto".
-- **2026-10-07 — foco da experiência:** Celso definiu experiência global e conteúdo voltado ao que acontece dentro da propriedade rural no agro.
-- **2026-10-07 — subtítulo:** aprovada a sugestão C, substituindo a versão que mencionava Mato Grosso.
-- **2026-10-07 — bloco sobre o estado do portal:** aprovada a sugestão 2.
+- **2026-11-02 — direção de atuação:** Celso definiu atuação em qualquer lugar, retirada de Mato Grosso do texto e anúncio mais objetivo.
+- **2026-11-02 — eyebrow:** aprovada a sugestão F, "Agrojur · direito do agro".
+- **2026-11-02 — CTA primário:** aprovada a palavra "Soluções", trazida por Celso.
+- **2026-11-02 — CTA secundário:** aprovado "Conhecer o projeto".
+- **2026-11-02 — foco da experiência:** Celso definiu experiência global e conteúdo voltado ao que acontece dentro da propriedade rural no agro.
+- **2026-11-02 — subtítulo:** aprovada a sugestão C, substituindo a versão que mencionava Mato Grosso.
+- **2026-11-02 — bloco sobre o estado do portal:** aprovada a sugestão 2.
 
 ## Checklist de aprovação
 
@@ -69,7 +69,7 @@ O Agrojur está em construção controlada. Pensado para o agro em qualquer luga
 - [ ] Exibe identificação institucional e inscrição profissional conforme validação do escritório/revisão ética.
 - [ ] Não contém dado pessoal fora de allowlist.
 - [x] Não é tratada como orientação jurídica individual.
-- [x] Copy aprovada por Celso (todos os blocos, 2026-10-07).
+- [x] Copy aprovada por Celso (todos os blocos, 2026-11-02).
 - [ ] Revisão de publicidade da advocacia concluída.
 
 ## Observação de governança
